@@ -1,0 +1,9 @@
+title = "Pokémon Ultra Sun and Ultra Moon"
+description = "um jogo de pokemon onde deve capturar pokemon"
+needs_system_files = false
+needs_shared_font = false
+
+[[releases]]
+title = "00040000001B5100"
+region = "jpn"
+release_date = "2017-11-17"
